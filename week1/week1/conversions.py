@@ -1,5 +1,0 @@
-var1 = input("Enter a number: ")
-print((var1))
-print((int(var1)))
-print((float(var1)))
-print(bool(var1))
